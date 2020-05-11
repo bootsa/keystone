@@ -1,5 +1,18 @@
 # @keystonejs/app-admin-ui
 
+## 6.0.1
+
+### Patch Changes
+
+- [`3b0f4137`](https://github.com/keystonejs/keystone/commit/3b0f4137df4112c79e6db57ae68fe04ad338da4c) [#2926](https://github.com/keystonejs/keystone/pull/2926) Thanks [@Vultraz](https://github.com/Vultraz)! - Used _label_ query for logged-in-user display.
+
+* [`15c57317`](https://github.com/keystonejs/keystone/commit/15c573178fa056912503f3ed83efeccceabba3ec) [#2933](https://github.com/keystonejs/keystone/pull/2933) Thanks [@Vultraz](https://github.com/Vultraz)! - Fixed an uncaught error during updating if access was denied.
+
+- [`2709a6b5`](https://github.com/keystonejs/keystone/commit/2709a6b512fe636d979837599b67bdb17b2517b1) [#2932](https://github.com/keystonejs/keystone/pull/2932) Thanks [@timleslie](https://github.com/timleslie)! - Updated README.
+
+- Updated dependencies [[`54931d75`](https://github.com/keystonejs/keystone/commit/54931d75d3f26f4f300c2c4c3ee65ed3183b4a6a), [`e9a0de2c`](https://github.com/keystonejs/keystone/commit/e9a0de2cc03c211beca01ec206244105bdca6afc), [`59ed6310`](https://github.com/keystonejs/keystone/commit/59ed6310bacc76f571639de048689becbedbeac5)]:
+  - @keystonejs/fields@11.0.0
+
 ## 6.0.0
 
 ### Major Changes

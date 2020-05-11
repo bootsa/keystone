@@ -1,5 +1,14 @@
 # @keystonejs/demo-project-todo
 
+## 5.1.8
+
+### Patch Changes
+
+- Updated dependencies [[`54931d75`](https://github.com/keystonejs/keystone/commit/54931d75d3f26f4f300c2c4c3ee65ed3183b4a6a), [`e9a0de2c`](https://github.com/keystonejs/keystone/commit/e9a0de2cc03c211beca01ec206244105bdca6afc), [`3b0f4137`](https://github.com/keystonejs/keystone/commit/3b0f4137df4112c79e6db57ae68fe04ad338da4c), [`15c57317`](https://github.com/keystonejs/keystone/commit/15c573178fa056912503f3ed83efeccceabba3ec), [`59ed6310`](https://github.com/keystonejs/keystone/commit/59ed6310bacc76f571639de048689becbedbeac5), [`2709a6b5`](https://github.com/keystonejs/keystone/commit/2709a6b512fe636d979837599b67bdb17b2517b1)]:
+  - @keystonejs/fields@11.0.0
+  - @keystonejs/app-admin-ui@6.0.1
+  - @keystonejs/keystone@9.0.1
+
 ## 5.1.7
 
 ### Patch Changes
